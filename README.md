@@ -32,3 +32,15 @@ Consigli del giorno:
 5. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 
 Buon lavoro e buon divertimento! 🙂
+
+## Esercizio Email
+
+1. creare una lista di invitati
+2. chiedere all' utente di inserire la sua email
+3. verifico se l' email inserita risulta nel sistema
+4. stampo il risultato
+
+## Esercizio Dadi
+
+1. genero un numero random da 1 a 6 per il pc che per l' utente
+2. metto le istruzioni condizionali per stabilire chi ha il numero maggiore dell' altro
